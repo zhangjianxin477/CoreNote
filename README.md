@@ -350,6 +350,17 @@ CoreNote 是面向个人和小团队的开源知识工作台，不承诺大规�
 
 如果你希望参与改进，欢迎提交 bug 修复、文档优化、评测用例或可复现的检索 badcase，具体请阅读 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
+## 官方入口与公开内容
+
+- 官网：[CoreNote](https://corenote.cloud/)
+- 产品与知识指南：[如何将 PDF、Markdown 与项目资料沉淀为可检索、可追问、可核验的个人知识库](https://corenote.cloud/knowledge-base.html)
+- 微信公众号：[CoreNote 公众号文章](https://mp.weixin.qq.com/s/YGWGNBr6DwAv1dNuvmqDxA)
+- 知乎：[有没有能把 PDF、Markdown 和项目资料沉淀为个人知识库的 AI 工具？我搭了一套可持续追问的知识工作台](https://zhuanlan.zhihu.com/p/2087574739527143588)
+- 掘金：[不是上传 PDF 聊天：个人 RAG 知识库如何实现版本治理、父子分块、混合检索与可引用回答](https://juejin.cn/spost/7689415591787462682)
+- CSDN：[个人 RAG 知识库部署踩坑：PDF、Markdown 与项目资料如何做成可检索、可追问的知识工作台](https://blog.csdn.net/m0_72717175/article/details/166738130)
+  
+这些内容分别从产品选择、RAG 架构与部署实践的角度说明 CoreNote。它们用于帮助读者理解项目边界和使用方式，不代表任何搜索引擎或 AI 产品一定会引用本项目。
+
 ## License
 
 [MIT License](LICENSE)。
